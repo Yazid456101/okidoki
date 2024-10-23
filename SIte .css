@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    background-image:url("background.png")
+}
+#titre{
+    color: #bf0c0c;
+    font-family: "Arial Black";
+    text-align: center;
+
+}
+#up{
+    background-color: #000000;
+}
+*{
+    margin: 0px;
+}
+table{
+border-color: aliceblue;
+    border-collapse: collapse;
+}
+.text{
+    color: aliceblue;
+    font-size: larger;
+}
